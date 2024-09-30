@@ -12,14 +12,10 @@ I am currently a student in Informatics Engineering at my university, with a str
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SamMorales11&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamMorales11&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SamMorales11&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SamMorales11&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SamMorales11&icon=6&color=9)](https://visitcount.itsvg.in)
